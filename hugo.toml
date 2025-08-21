@@ -1,0 +1,11 @@
+baseURL = '/'
+languageCode = 'zh-tw'
+title = '星空下微風輕拂黃光閃耀的世界三'
+theme = 'stack'
+[params.sidebar]
+emoji = "🏢"
+subtitle = "2025年至2038年紀錄三"
+[params.sidebar.avatar]
+enabled = true
+local = true
+src = "/img/avatar.png"
