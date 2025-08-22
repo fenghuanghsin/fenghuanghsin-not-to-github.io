@@ -9,3 +9,7 @@ subtitle = "2025年至2038年紀錄三"
 enabled = true
 local = true
 src = "/img/avatar.png"
+[deployment]
+  [[deployment.targets]]
+    name = 'production'
+    url = 's3://fenghuanghsin?region=ap-southeast-2'
