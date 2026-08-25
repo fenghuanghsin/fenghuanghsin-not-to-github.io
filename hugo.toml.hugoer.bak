@@ -1,5 +1,5 @@
 baseURL = '/'
-locale = 'zh-tw'
+languageCode = 'zh-tw'
 title = '星空下微風輕拂黃光閃耀的世界三'
 theme = 'stack'
 [params.sidebar]
@@ -13,6 +13,3 @@ src = "/img/avatar.png"
   [[deployment.targets]]
     name = 'production'
     url = 's3://fenghuanghsin?region=ap-southeast-2'
-
-[markup.goldmark.renderer]
-unsafe = true
