@@ -1,10 +1,5 @@
 ---
 title: 關於
-menu:
-    main: 
-        weight: 7
-        params:
-            icon: circle-info
 comments: false
 ---
 
